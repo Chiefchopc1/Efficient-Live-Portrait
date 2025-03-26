@@ -133,4 +133,4 @@ python /content/Efficient-Live-Portrait/run_live_portrait.py --driving_video 'pa
  Follow in the colab folder
 ### 5. Inference speed evaluation 🚀🚀🚀
 
-We'll release it soon
+successful 
